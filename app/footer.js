@@ -30,7 +30,15 @@ export default function Footer() {
         <div className="flex flex-col gap-2 items-center md:items-start">
           <h3 className="text-white font-semibold mb-2">Quick Links</h3>
 
-          <Link href="/" className="hover:text-white transition">Home</Link>
+         <Link href="#home" className="hover:text-yellow-500 transition cursor-pointer">
+    Home
+  </Link>
+  <Link href="#about" className="hover:text-yellow-500 transition cursor-pointer">
+    About us
+  </Link>
+   <Link href="#projects" className="hover:text-yellow-500 transition cursor-pointer">
+    Projects
+  </Link>
           
         </div>
 
@@ -46,7 +54,7 @@ export default function Footer() {
               href="https://mail.google.com/mail/?view=cm&fs=1&to=dip.dev.contact@gmail.com&su=Website%20Project%20Request"
               target="_blank"
               title="Email"
-              className="hover:text-yellow-500 transition hover:scale-110"
+              className="hover:text-yellow-300 transition hover:scale-110"
             >
               <EmailIcon fontSize="inherit" />
             </a>

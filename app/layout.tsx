@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Dip Dev",
   icons: {
-    icon: "/icon.png", 
+    icon: "/logo1.png", 
   },
   description:
     "Dip Dev builds high-end, fast, and conversion-focused websites for modern brands worldwide. We turn ideas into premium digital experiences.",

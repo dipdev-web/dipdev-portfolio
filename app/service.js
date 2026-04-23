@@ -54,7 +54,7 @@ export default function Services() {
             key={index}
             initial={{ opacity: 0, y: 50 }}
             whileInView={{ opacity: 1, y: 0 }}
-            transition={{ delay: index * 0.2 }}
+            transition={{ delay: index * 0.1 }}
             whileHover={{
               scale: 1.07,
               rotateX: 6,
