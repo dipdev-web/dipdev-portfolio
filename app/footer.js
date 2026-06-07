@@ -51,7 +51,7 @@ export default function Footer() {
 
             {/* Email */}
             <a
-              href="https://mail.google.com/mail/?view=cm&fs=1&to=dip.dev.contact@gmail.com&su=Website%20Project%20Request"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=dipdev.web@gmail.com&su=Website%20Project%20Request"
               target="_blank"
               title="Email"
               className="hover:text-yellow-300 transition hover:scale-110"
@@ -71,7 +71,7 @@ export default function Footer() {
 
             {/* LinkedIn */}
             <a
-              href="https://www.linkedin.com/in/dip-dev-1432b4402/"
+              href="https://www.linkedin.com/in/dip-dev-26a488373/"
               target="_blank"
               title="LinkedIn"
               className="hover:text-blue-500 transition hover:scale-110"
