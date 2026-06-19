@@ -71,7 +71,7 @@ export default function Footer() {
 
             {/* LinkedIn */}
             <a
-              href="https://www.linkedin.com/in/dip-dev-26a488373/"
+              href=""
               target="_blank"
               title="LinkedIn"
               className="hover:text-blue-500 transition hover:scale-110"
