@@ -114,7 +114,7 @@ export default function Navbar() {
                 ))}
 
                 <a
-                  href="https://wa.me/212619831430"
+                  href="https://wa.me/"
                   target="_blank"
                   className="bg-yellow-500 text-black px-6 py-2 rounded-lg font-medium hover:scale-105 transition"
                 >
