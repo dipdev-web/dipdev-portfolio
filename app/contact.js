@@ -128,7 +128,7 @@ Message: ${form.message}
 
                 {/* ONLY ONE BUTTON (WA FLOW) */}
                 <a
-                  href={`https://wa.me/212619831430?text=${encodeURIComponent(
+                  href={`https://wa.me/?text=${encodeURIComponent(
                     whatsappMessage
                   )}`}
                   target="_blank"
