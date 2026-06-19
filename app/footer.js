@@ -91,7 +91,7 @@ export default function Footer() {
 
             {/* WhatsApp */}
             <a
-              href="https://wa.me/212619831430"
+              href="https://wa.me/"
               target="_blank"
               title="WhatsApp"
               className="hover:text-green-500 transition hover:scale-110"
